@@ -4,7 +4,7 @@ const Footer = () => {
  
   return (
     <div>
-      <footer className='bg-dark text-light py-3' >
+      <footer className='bg-dark text-light py-3'>
         <p className='text-center'>
         copyright &copy; seenutodolist.com
         </p></footer>

@@ -3,13 +3,10 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      This is an about component.
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, ullam
-        fugit. Aspernatur dolorum neque sapiente, eligendi omnis ab hic eius
-        illo odio vero maxime dolor, possimus corrupti reprehenderit, officia
-        corporis.
-      </p>
+      <h3>
+        This is a simple To-Do List React App.
+      </h3>
+      <p>Here you can Add and Delete To-Dos....!!!</p>
     </div>
   );
 };

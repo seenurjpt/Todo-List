@@ -1,4 +1,3 @@
-
 import "./App.css";
 import Header from "./MyComponents/Header";
 import Todos from "./MyComponents/Todos";
@@ -6,11 +5,7 @@ import Footer from "./MyComponents/Footer";
 import Addtodo from "./MyComponents/Addtodo";
 import About from "./MyComponents/About";
 import React, { useState, useEffect } from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App(todo) {
   let initTodo;
